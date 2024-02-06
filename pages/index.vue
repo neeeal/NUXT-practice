@@ -1,5 +1,5 @@
 <template>
     <div class="Main">
-        <ProfileHeaderAvatar></ProfileHeaderAvatar>
+        Main page
     </div>
 </template>
